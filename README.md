@@ -1,4 +1,5 @@
-Systeme-de-pagination-php
+FR: Systeme de pagination php
+EN: Pagination systeme php
 =========================
 
-Système de pagination php
+/* Author: A.Anass*/
